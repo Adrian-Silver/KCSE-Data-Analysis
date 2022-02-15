@@ -21,8 +21,23 @@ This is what I did withthe data:-
 
 # 1. There was a value named FEMLAE instead of FEMALE in Gender.
 
+# 2. The total number of candidates increased over the years.
 
-# 2. 
+![Total_Candidates](https://user-images.githubusercontent.com/59757805/154099222-e1777b5e-df81-4a9c-9c48-4a6959c462fd.png)
+
+![No_of_Candidates](https://user-images.githubusercontent.com/59757805/154099953-8ed4816a-ea8f-4447-8c7e-d6563cb44e1c.png)
+
+# 3. Grade Distribution over the years
+
+![Candidates_Grade_Distro_2](https://user-images.githubusercontent.com/59757805/154099481-7a2d0eaf-5b55-46e5-aef0-3ea1fd72c16f.png)
+
+# 4. Grade Performance in Males
+
+![Grade_Performance_in_Males](https://user-images.githubusercontent.com/59757805/154099807-ec26c31e-c55d-4b10-94c8-425b911bc455.png)
+
+# 5. Grade Performance in Females
+
+![Grade_Performance _in _Females](https://user-images.githubusercontent.com/59757805/154099891-c7063813-a4d9-44da-a60b-17b37d84818e.png)
 
 
 
