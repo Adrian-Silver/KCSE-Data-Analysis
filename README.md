@@ -19,7 +19,7 @@ This is what I did withthe data:-
 
 ## Findings
 
-# 1. There was a value named FEMLAE instead of FEMALE in Gender.
+1. There was a value named FEMLAE instead of FEMALE in Gender.
 
 # 2. The total number of candidates increased over the years.
 
@@ -31,17 +31,34 @@ This is what I did withthe data:-
 
 ![Candidates_Grade_Distro_2](https://user-images.githubusercontent.com/59757805/154099481-7a2d0eaf-5b55-46e5-aef0-3ea1fd72c16f.png)
 
+
 # 4. Grade Performance in Males
 
 ![Grade_Performance_in_Males](https://user-images.githubusercontent.com/59757805/154099807-ec26c31e-c55d-4b10-94c8-425b911bc455.png)
+
+The most common grade among males over the years is D+
 
 # 5. Grade Performance in Females
 
 ![Grade_Performance _in _Females](https://user-images.githubusercontent.com/59757805/154099891-c7063813-a4d9-44da-a60b-17b37d84818e.png)
 
+The most common grade among females over the years is D
 
 
-## Conclusion
+# 6. Comparison of Grades over the Years
+
+Over the years, only 24.54% of students achieved quality grades while 75.46% failed to qualify for University.
+
+### Challenges faced while analysing this data
+
+Found difficulty creating pie charts to visualize some of the data.
+Found out that Jupyter Notebook would be more effective for Data Analysis
+
+## Recommendations
+1. Practice plotting pie charts
+2. Practice Data Visualiztion Techniques
+3. Practice and compare efficiency of Jupyter Notebook to PyCharm.
+
 
 
 
