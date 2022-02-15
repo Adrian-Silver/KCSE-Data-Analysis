@@ -47,6 +47,8 @@ The most common grade among females over the years is D
 
 # 6. Comparison of Grades over the Years
 
+images/Mean_of_Grades.png
+
 Over the years, only 24.54% of students achieved quality grades while 75.46% failed to qualify for University.
 
 ### Challenges faced while analysing this data
