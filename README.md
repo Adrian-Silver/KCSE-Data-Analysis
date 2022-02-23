@@ -57,7 +57,7 @@ The most common grade among females over the years is D
 
 Over the years, only 25.91% of students achieved quality grades while 74.09% failed to qualify for University.
 
-In 2011, there was the least gap between quality grades and non-quality grades
+In 2011, there was the least gap between quality grades and non-quality grades.
 In 2016, there was the largest gap between quality grades and non-quality grades.
 
 
