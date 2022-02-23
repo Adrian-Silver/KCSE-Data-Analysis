@@ -23,31 +23,36 @@ This is what I did withthe data:-
 
 # 2. The total number of candidates increased over the years.
 
-![Total_Candidates](https://user-images.githubusercontent.com/59757805/154099222-e1777b5e-df81-4a9c-9c48-4a6959c462fd.png)
+![total_candidates_2_line](https://user-images.githubusercontent.com/59757805/155420299-3b461ba7-4ac5-4213-8ab8-4fd3b62482c5.png)
 
-![No_of_Candidates](https://user-images.githubusercontent.com/59757805/154099953-8ed4816a-ea8f-4447-8c7e-d6563cb44e1c.png)
+
+![total_candidates_2](https://user-images.githubusercontent.com/59757805/155420270-5b603420-9d26-4abd-bb2c-1d5cb60dce77.png)
+
 
 # 3. Grade Distribution over the years
 
-![Candidates_Grade_Distro_2](https://user-images.githubusercontent.com/59757805/154099481-7a2d0eaf-5b55-46e5-aef0-3ea1fd72c16f.png)
+![grade_distro_2](https://user-images.githubusercontent.com/59757805/155420540-f514de6e-26c8-44cc-bbab-87b70493e49e.png)
+
 
 
 # 4. Grade Performance in Males
 
-![Grade_Performance_in_Males](https://user-images.githubusercontent.com/59757805/154099807-ec26c31e-c55d-4b10-94c8-425b911bc455.png)
+![male_grades_2](https://user-images.githubusercontent.com/59757805/155420358-3fa604fe-1d64-470b-99da-f53fe30b7c5d.png)
+
 
 The most common grade among males over the years is D+
 
 # 5. Grade Performance in Females
 
-![Grade_Performance _in _Females](https://user-images.githubusercontent.com/59757805/154099891-c7063813-a4d9-44da-a60b-17b37d84818e.png)
+![grades_females_2](https://user-images.githubusercontent.com/59757805/155420398-a391566b-9293-4154-bcb1-cc86a6a0789f.png)
+
 
 The most common grade among females over the years is D
 
 
 # 6. Comparison of Grades over the Years
 
-![Mean_of_Grades](https://user-images.githubusercontent.com/59757805/154109729-60986811-3a8c-4eb0-a28f-37d9a287f133.png)
+![mean_grades_2](https://user-images.githubusercontent.com/59757805/155420442-c523601d-94b9-4dd3-8f2c-bcaf452fc8fd.png)
 
 
 Over the years, only 24.54% of students achieved quality grades while 75.46% failed to qualify for University.
