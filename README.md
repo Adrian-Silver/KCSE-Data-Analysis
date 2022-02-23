@@ -40,7 +40,7 @@ This is what I did withthe data:-
 ![male_grades_2](https://user-images.githubusercontent.com/59757805/155420358-3fa604fe-1d64-470b-99da-f53fe30b7c5d.png)
 
 
-The most common grade among males over the years is D+
+The most common grade among males over the years is D
 
 # 5. Grade Performance in Females
 
@@ -55,7 +55,11 @@ The most common grade among females over the years is D
 ![mean_grades_2](https://user-images.githubusercontent.com/59757805/155420442-c523601d-94b9-4dd3-8f2c-bcaf452fc8fd.png)
 
 
-Over the years, only 24.54% of students achieved quality grades while 75.46% failed to qualify for University.
+Over the years, only 25.91% of students achieved quality grades while 74.09% failed to qualify for University.
+
+In 2011, there was the least gap between quality grades and non-quality grades
+In 2016, there was the largest gap between quality grades and non-quality grades.
+
 
 ### Challenges faced while analysing this data
 
